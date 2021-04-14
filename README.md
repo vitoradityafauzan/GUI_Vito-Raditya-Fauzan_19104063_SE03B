@@ -1,17 +1,8 @@
+# GUI_Vito Raditya Fauzan_19104063_SE03B
 
-# Tugas1_GUI_Vito Raditya Fauzan_19104063_SE03B
-</br>
-## Repository untuk Tugas 1, Mata Kuliah GUI.
+## Repository untuk Tugas Teori Dan Praktikum, Mata Kuliah GUI.
  
-### Mendesign GUI Calender Dengan QT Designer
+|Nama  |NIM  |Kelas
+|--|--|--|
+|Vito Raditya Fauzan  |19104063  |S1 SE-03-B |
 
-Referensi :
-![image](https://drive.google.com/uc?export=view&id=1MJc1JMk0EnUfLN5_rh694g27TW_8v1Ch)
-
-</br>
-
-Hasil :
-</br>
-![image](https://drive.google.com/uc?export=view&id=18s-OJvaMe_5zsr6ysf2oOQvl5GQqdVaL)
-</br>
-![image](https://drive.google.com/uc?export=view&id=1Px9Ef0nU0ww3rjpgWbfJtrYyOBqjyxTj)
