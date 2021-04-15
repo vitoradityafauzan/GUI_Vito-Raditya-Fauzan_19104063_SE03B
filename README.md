@@ -1,5 +1,5 @@
 
-# Tugas1_GUI_Vito Raditya Fauzan_19104063_SE03B
+# Tugas_GUI_Vito Raditya Fauzan_19104063_SE03B
 
 ## Repository untuk Tugas Teori, Mata Kuliah GUI.
  
