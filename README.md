@@ -1,6 +1,6 @@
 # GUI_Vito Raditya Fauzan_19104063_SE03B
 
-## Repository untuk Tugas Teori Dan Praktikum, Mata Kuliah GUI.
+## Repository untuk Praktikum, Mata Kuliah GUI.
  
 |Nama  |NIM  |Kelas
 |--|--|--|
