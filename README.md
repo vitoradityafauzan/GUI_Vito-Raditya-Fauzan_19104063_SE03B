@@ -7,11 +7,13 @@
 ### Tugas 1, Mendesign GUI Calender Dengan QT Designer
 
 Referensi :
+
 ![image](https://drive.google.com/uc?export=view&id=1MJc1JMk0EnUfLN5_rh694g27TW_8v1Ch)
 
 </br>
 
 Hasil :
+
 </br>
 ![image](https://drive.google.com/uc?export=view&id=18s-OJvaMe_5zsr6ysf2oOQvl5GQqdVaL)
 </br>
@@ -21,12 +23,15 @@ Hasil :
 ### Tugas 2 - Design Layout GUI
 
 Referensi :
+
 ![image](https://drive.google.com/uc?export=view&id=1nZP1O9YaH1xcv3K27-JmMBj0yqjpTtjI)
 <br>
 Hasil:
+
 ![image](https://drive.google.com/uc?export=view&id=1sdF0tJES3Pme71IJywiFQCKP3DgIrbJ3)
 <br>
 Penjelasan:
+
 ![image](https://drive.google.com/uc?export=view&id=1mwxKi953axWqYi8LADql-7RTfOQwrU3-)
 <p>
 Menurut bagian yang di-highlight, tools yang digunakan yaitu:
