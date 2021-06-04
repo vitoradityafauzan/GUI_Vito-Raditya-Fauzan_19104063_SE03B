@@ -15,7 +15,7 @@
 #
 #
 # button.clicked.connect(on_button_clicked)
-# 
+#
 # button.show()
 #
 #     app.exec_();
@@ -40,4 +40,4 @@ button.clicked.connect(on_button_clicked)
 
 button.show()
 
-app.exec_();
+app.exec_()
