@@ -7,20 +7,18 @@
 Referensi :
 ![image](https://drive.google.com/uc?export=view&id=1MJc1JMk0EnUfLN5_rh694g27TW_8v1Ch)
 
-</br>
+<br>
 
 Hasil :
-</br>
+
 ![image](https://drive.google.com/uc?export=view&id=18s-OJvaMe_5zsr6ysf2oOQvl5GQqdVaL)
-</br>
+<br>
 ![image](https://drive.google.com/uc?export=view&id=1Px9Ef0nU0ww3rjpgWbfJtrYyOBqjyxTj)
 
-|
 
-||||||||||||||||||||||||| ######### |||||||||||||||||||||||||
-||||||||||||||||||||||||| ######### |||||||||||||||||||||||||
+<br>
+<br>
 
-|
 
 ### Tugas 2 - Design Layout GUI
 
@@ -56,25 +54,25 @@ Menurut bagian yang di-highlight, Layout yang digunakan yaitu:
  - Lingkaran Merah menggunakan Horizontal Layout
 </p>
 
-|
-
-||||||||||||||||||||||||| ######### |||||||||||||||||||||||||
-||||||||||||||||||||||||| ######### |||||||||||||||||||||||||
-
-|
+<br>
+<br>
 
 ### Jawaban UTS
 **Nomor 1**
 Hasil Run:
+
 <img src="https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/Teori/UTS/SS/Main.jpg">
 
 Interaksi tombol Tambah:
+
 <img src="https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/Teori/UTS/SS/tombol_tambah.jpg">
 
 Interaksi tombol Edit:
+
 <img src="https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/Teori/UTS/SS/tombol_edit.jpg">
 
 Interaksi tombol Clear:
+
 <img src="https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/Teori/UTS/SS/tombol_clear.jpg">
 
 File formMahasiswa:
@@ -82,16 +80,26 @@ File formMahasiswa:
 
 File DemoNo1:
 <a href="https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/Teori/UTS/DemoNo1.py">Click Here</a>
+
 <br>
 
 **Nomor 2**
+
 File Python:
 <a href="https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/Teori/UTS/No2.py">Click Here</a>
 
 Sebelum diubah:
+
 <img src="https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/Teori/UTS/SS/No2_sblm.jpg">
 
 Sesudah diubah:
+
 <img src="https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/Teori/UTS/SS/No2_ssdh.jpg">
 
 Analisa:
+
+Pada baris ke-43, line "app.exec_()" memiliki Indentasi. Walaupun baris ke-43 tidak saling berhubung dengan baris sebelumnya. 
+
+<img src="https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/Teori/UTS/SS/No2_indentasi.jpg">
+
+Maka, Indentasi baris ke-43 dihapus. Lalu, penutup titik koma ( ; ) tidak berlaku pada Python. Maka titik koma juga dihapus.
