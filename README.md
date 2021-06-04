@@ -97,6 +97,9 @@ Sesudah diubah:
 <img src="https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/Teori/UTS/SS/No2_ssdh.jpg">
 
 Analisa:
+
 Pada baris ke-43, line "app.exec_()" memiliki Indentasi. Walaupun baris ke-43 tidak saling berhubung dengan baris sebelumnya. 
+
 <img src="https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/Teori/UTS/SS/No2_indentasi.jpg">
+
 Maka, Indentasi baris ke-43 dihapus. Lalu, penutup titik koma ( ; ) tidak berlaku pada Python. Maka titik koma juga dihapus.
