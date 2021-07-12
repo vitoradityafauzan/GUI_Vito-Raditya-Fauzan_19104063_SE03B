@@ -4,7 +4,6 @@ from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 
 class AddForm(QDialog):
-
 	def __init__(self):
 		super().__init__()
 		self.setupUi()
@@ -38,7 +37,6 @@ class AddForm(QDialog):
 
 class MainForm(QWidget):
 	lastRecordNumber = -1
-
 	def __init__(self):
 		super().__init__()
 		self.setupUi()
@@ -63,50 +61,46 @@ class MainForm(QWidget):
 		layout.addLayout(vbox)
 		self.setLayout(layout)
 		self.addButton.clicked.connect(self.addButtonClick)
-		self.deleteButton.clicked.connect(self.deleteButtonCli
-		ck)
+		self.deleteButton.clicked.connect(self.deleteButtonClick)
 		self.exitButton.clicked.connect(self.exitButtonClick)
 
 	def setColumnAndHeaders(self):
 		self.tableWidget.setColumnCount(2)
 		columnHeaders = ['Bahasa Pemrograman', 'Nama Pencipta']
-		self.tableWidget.setHorizontalHeaderLabels(columnHeade
-		rs)
+		self.tableWidget.setHorizontalHeaderLabels(columnHeaders)
 
 	def addRow(self, row, itemLabels=[]):
 		for i in range(2):
-		item = QTableWidgetItem()
-		item.setText(itemLabels[i])
-		self.tableWidget.setItem(row, i, item)
+			item = QTableWidgetItem()
+			item.setText(itemLabels[i])
+			self.tableWidget.setItem(row, i, item)
 
 	def addButtonClick(self):
-		if MainForm.lastRecordNumber ==
-		self.tableWidget.rowCount()-1:
-		self.tableWidget.setRowCount(
-		self.tableWidget.rowCount()+1)
-		form = AddForm()
+		if MainForm.lastRecordNumber == self.tableWidget.rowCount()-1:
+			self.tableWidget.setRowCount(self.tableWidget.rowCount()+1)
+			form = AddForm()
 		if form.exec_() == QDialog.Accepted:
-		MainForm.lastRecordNumber += 1
-		language = form.languageEdit.text()
-		name = form.nameEdit.text()
-		data = [language, name]
-		self.addRow(MainForm.lastRecordNumber, data)
+			MainForm.lastRecordNumber += 1
+			language = form.languageEdit.text()
+			name = form.nameEdit.text()
+			data = [language, name]
+			self.addRow(MainForm.lastRecordNumber, data)
 
 	def deleteButtonClick(self):
 		tableData = []
 		for i in range(0, self.tableWidget.rowCount()):
-		language = self.tableWidget.item(i, 0).text()
-		name = self.tableWidget.item(i, 1).text()
-		tableData.append([language, name])
-		row = self.tableWidget.currentRow()
-		del tableData[row]
-		MainForm.lastRecordNumber -= 1
-		self.tableWidget.clear()
-		self.setColumnAndHeaders()
-		self.tableWidget.setRowCount(len(tableData))
-		for i in range(0, len(tableData)):
-		data = tableData[i]
-		self.addRow(i, data)
+			language = self.tableWidget.item(i, 0).text()
+			name = self.tableWidget.item(i, 1).text()
+			tableData.append([language, name])
+			row = self.tableWidget.currentRow()
+			del tableData[row]
+			MainForm.lastRecordNumber -= 1
+			self.tableWidget.clear()
+			self.setColumnAndHeaders()
+			self.tableWidget.setRowCount(len(tableData))
+			for i in range(0, len(tableData)):
+				data = tableData[i]
+				self.addRow(i, data)
 
 	def exitButtonClick(self):
 		self.close()
