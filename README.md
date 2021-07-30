@@ -1,4 +1,4 @@
-# GUI_Vito Raditya Fauzan_19104063_SE03B
+# GUI_TuBes_SE03B
 
 ## Repository untuk Pengumpulan Tugas Besar Mata Kuliah GUI.
 
