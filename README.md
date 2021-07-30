@@ -4,7 +4,7 @@
 
 ## Aplikasi Desktop ProNo: Progress Notifier
 
-## Kelompok ProNo : 
+## Kelompok S3hr_Klug : 
 |Nama  |NIM  |Kelas
 |--|--|--|
 |Vito Raditya Fauzan  |19104063  |S1 SE-03-B |
