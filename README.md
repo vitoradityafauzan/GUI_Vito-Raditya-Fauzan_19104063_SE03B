@@ -1,6 +1,6 @@
 # GUI_Vito Raditya Fauzan_19104063_SE03B
 
-## Repository untuk ,Pengumpulan Tugas Besar Mata Kuliah GUI.
+## Repository untuk Pengumpulan Tugas Besar Mata Kuliah GUI.
 
 ## Aplikasi Desktop ProNo: Progress Notifier
 
