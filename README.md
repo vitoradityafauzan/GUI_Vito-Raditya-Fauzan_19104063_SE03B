@@ -19,6 +19,7 @@
    <img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/2.%20Klik%20sign%20up%20muncul%20message%20box.PNG">
    <img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/3.%20form%20sign%20up.PNG">
 6. Inputkan terlebih dahulu data diri anda, jika sudah tepat klik tombol Sign Up.
+
    <img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/4.%20pengisian%20sign%20up.PNG">
    <img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/5.%20pengisian%20sign%20up%20sukses.PNG"> 
 7. Setelah mendaftar atau Sign Up, form Sign In muncul kembali dan pengguna dapat menginputkan username dan password yang telah didaftarkan. Jika username dan password benar, maka pengguna akan masuk ke halaman utama atau landing page.
