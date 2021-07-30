@@ -40,12 +40,12 @@
   <img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/8.%20add%20progress%20sukses.PNG">
 11. Setelah ditambah, detail progress tersebut akan tercantum pada tabel.
    <img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/9.%20detail%20progress%20masuk%20ke%20tabel.PNG">
-12. Untuk edit progress, pengguna dapat mengklik salah satu isi tabel, seperti pada kolom Kegiatan Kategori Progress.
+12. Untuk edit progress, pengguna dapat mengklik salah satu isi tabel, seperti pada kolom Kategori Kegiatan Progress.
    <img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/10.%20proses%20edit%20progress.PNG">
 13. Edit data di dalam form. Setelah selesai edit, klik tombol Edit untuk mengupdate data baru. Kemudian data berhasil dirubah.
    <img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/11.%20proses%20edit%20progress%20sukses.PNG">
    <img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/12.%20hasil%20proses%20edit%20progress.PNG">
-14. Untuk hapus progress, pengguna dapat mengklik salah satu isi tabel, seperti pada kolom Kegiatan Kategori Progress. Kemudian klik Delete. Maka akan muncul pemberitahuan sukses dan data berhasil terhapus.
+14. Untuk hapus progress, pengguna dapat mengklik salah satu isi tabel, seperti pada kolom Kategori Kegiatan Progress. Kemudian klik Delete. Maka akan muncul pemberitahuan sukses dan data berhasil terhapus.
   <img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/13.%20proses%20hapus%20progress%20sukses.PNG">
   <img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/14.%20hasil%20proses%20hapus%20progress%20sukses.PNG">
 15. Isi tabel activity_log pada database prono setelah pengguna menambah, mengedit, dan mengedit detail progress miliknya
