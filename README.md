@@ -9,7 +9,7 @@
 |--|--|--|
 |Vito Raditya Fauzan  |19104063  |S1 SE-03-B |
 |Anggeralmasih Wiradika Rusmana  |19104073  |S1 SE-03-B |
-|Muhammad Arif Saputra  |19104063  |S1 SE-03-B |
+|Muhammad Arif Saputra  |19104012  |S1 SE-03-B |
 
 ## Use Case Diagram ProNo :
 <img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/use%20case%20diagram.jpeg">
