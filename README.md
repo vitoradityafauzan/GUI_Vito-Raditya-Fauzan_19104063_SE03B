@@ -15,7 +15,7 @@
 <img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/use%20case%20diagram.jpeg">
 
 ## Database Design :
-<img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/Desain%20Database.jpeg">
+<img src = "https://github.com/vitoradityafauzan/GUI_Vito-Raditya-Fauzan_19104063_SE03B/blob/TUBES/SS%20Tubes%20ProNo/Desain%20Database%20ProNo.PNG">
 
 ## Petunjuk Penggunaan :
 1. Download file repositori terlebih dahulu
